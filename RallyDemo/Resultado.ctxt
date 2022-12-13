@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Resultado
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Resultados\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=tiempo\ circuito
+comment1.target=Resultado(double,\ Circuito)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Resultados\r\n
+comment2.params=
+comment2.target=double\ getTiempo()
+comment3.params=puntos
+comment3.target=void\ setPuntos(int)
+comment4.params=
+comment4.target=int\ getPuntos()
+comment5.params=
+comment5.target=Circuito\ getCircuito()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Velocidad
+comment0.text=\r\n\ Enumeration\ class\ Velocidad\ -\ write\ a\ description\ of\ the\ enum\ class\ here\r\n\ \r\n\ @author\ (your\ name\ here)\r\n\ @version\ (version\ number\ or\ date\ here)\r\n
+comment1.params=nombre\ valor
+comment1.target=Velocidad(java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=
+comment3.target=double\ getValor()
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ComplejidadExtra
+comment0.text=\r\n\ Patron\ Decorator\r\n
+comment1.params=circuito
+comment1.target=ComplejidadExtra(Circuito)
+comment2.params=
+comment2.target=Circuito\ getDecorator()
+comment3.params=
+comment3.target=java.lang.String\ mostrarComplejidad()
+numComments=4

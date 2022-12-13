@@ -1,0 +1,18 @@
+Nombre de los integrantes del grupo:
+- Víctor Manuel Basilio Montes
+- Manuel David Hernández Pozo
+- Gonzalo Jiménez Gómez
+
+Nombre de la clase para realizar la simulacion:
+	-RallyDemo
+
+Para cambiar entre los 3 conjuntos de datos proporcionados:
+	-Comentar los conjuntos de datos que no se quieran ejecutar y descomentar el conjunto de datos a ejecutar.
+
+*Extras:
+	-Aplicacion de patrones de diseño (Decorator y Strategy)
+	-Uso de iterators
+
+*Nota:
+	-En la parte de la clasificacion final de escuderías, el orden en el que se muestran los pilotos y coches varia en comparación
+	al fichero de salida proporcionado.
