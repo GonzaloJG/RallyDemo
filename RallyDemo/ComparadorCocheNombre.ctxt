@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ComparadorCocheNombre
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ comparadorCocheNombre\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=c1\ c2
+comment1.target=int\ compare(Coche,\ Coche)
+numComments=2
